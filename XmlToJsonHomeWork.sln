@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlToJsonHomeWork", "XsonToJsonHomeWork\XmlToJsonHomeWork.csproj", "{B43A58AC-115E-4775-A0C6-0DAE2932B393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B43A58AC-115E-4775-A0C6-0DAE2932B393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43A58AC-115E-4775-A0C6-0DAE2932B393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43A58AC-115E-4775-A0C6-0DAE2932B393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43A58AC-115E-4775-A0C6-0DAE2932B393}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDE799D1-8468-4D08-8DDE-53E152DE1649}
+	EndGlobalSection
+EndGlobal
